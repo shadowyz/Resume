@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .title-sec{
     background-image: url("../Images/work-pic.jpeg");
     background-size: cover;
