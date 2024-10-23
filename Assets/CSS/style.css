@@ -1,0 +1,100 @@
+.title-sec{
+    background-image: url("../Images/work-pic.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title-div {
+    color: white;
+    margin-top: 100px;
+}
+
+.profile-pic {
+    height: 400px;
+    border-radius: 50%;
+    border: 10px solid white;
+}
+
+.title-text-div{
+    padding-left: 50px;
+    color: white;
+}
+
+.greetings {
+    font-size: 30px;
+    font-family: 'Sansita One', sans-serif;    
+}
+
+.my-name {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: 'Sansita One', sans-serif;
+}
+
+.link {
+    filter: invert(100%) brightness(100%);
+}
+
+.specialty {
+    font-size: 25px;
+    font-family: 'Sansita One', sans-serif;    
+}
+
+.title {
+    color: #1230AE;
+    font-family: 'Sansita One', sans-serif;
+}
+
+.sub-title {
+    color: #1230AE;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    text-transform: uppercase;
+}
+
+.text > ul li::marker {
+    color: blue;    /* Change bullet color */
+}
+
+.text {
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: 22px;
+}
+
+.contact-me-list {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.about-sec {
+    background-color: #DFF2EB;
+}
+
+.salutation-title {
+    font-family: 'Sansita One', sans-serif;
+}
+
+.icon {
+    filter: invert(0%) brightness(0%);
+}
+
+.dotted-line {
+    border: none;
+    border-top: 2px dotted blue;
+    height: 0;
+}
+
+.contact-sec {
+    background-color: #DFF2EB;
+}
+
+footer {
+    color: white;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-weight: 900;
+}
+
+.footer-sec {
+    background-color: #AD49E1;
+}
+
